@@ -1,10 +1,10 @@
-class Main {
+﻿class Main {
   
 
     public static void main(String[] args) {
     
 
-    // 12を3で割った値を出力してください
+    // 12を4で割った値を出力してください
     
     System.out.println(12/3);
     
